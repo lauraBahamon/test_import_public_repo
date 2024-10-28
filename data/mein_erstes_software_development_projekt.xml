@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2024-10-15T12:14:21.124244+02:00" version="2.2.1">
+	<title>Mein erstes Software Development Projekt (als Admin)</title>
+	<description/>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/clarify_consequences_international_law"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_IT_department"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_IT_or_data_management_expert"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_data_security_officer"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_rights_owner"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/create_data_organisation_policy"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/create_naming_policy"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/determine_versioning_tool"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/finish-first-dmp"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/identify_rights_owner"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/inform_data_security_officer"/>
+	</tasks>
+	<views>
+		<view dc:uri="http://local-rdmo-app.com/views/TestView"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/funder"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>externe Finanzierung</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:32:41.261732+02:00</created>
+			<updated>2024-10-14T16:32:41.261739+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Pepito Pérez</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T18:04:41.767337+02:00</created>
+			<updated>2024-10-14T18:04:41.767345+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/215"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T11:26:09.803018+02:00</created>
+			<updated>2024-10-14T11:26:09.803022+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_question/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Erweiterung einer bestehenden Software</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T11:34:51.891835+02:00</created>
+			<updated>2024-10-14T11:34:51.891838+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/schedule/project_end"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>2026-09-30T00:00:00+02:00</text>
+			<option/>
+			<file/>
+			<value_type>datetime</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-11T18:26:24.740755+02:00</created>
+			<updated>2024-10-11T18:26:24.740763+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/schedule/project_start"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>2024-10-01T00:00:00+02:00</text>
+			<option/>
+			<file/>
+			<value_type>datetime</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-11T18:26:14.288033+02:00</created>
+			<updated>2024-10-11T18:26:14.288040+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>RDMO Plugins</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-11T18:25:25.030808+02:00</created>
+			<updated>2024-10-11T18:25:25.030819+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-11T18:05:55.911131+02:00</created>
+			<updated>2024-10-14T11:43:42.926016+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/buy-or-make"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Die Software bringt neue Funktionalitäten über Plugins. Dabei geht es um optionale und nicht für alle Anwendungen der bestehenden Software relevante Funktionalitäten.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T11:34:51.892344+02:00</created>
+			<updated>2024-10-14T11:34:51.892347+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/coding-standards"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/coding-standards/pep8"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T14:43:45.740135+02:00</created>
+			<updated>2024-10-14T14:43:45.740139+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/community-requirements"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja, Antrag + Kompatibilität mit der bestehenden Software + Anforderungen der community</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:28:57.327554+02:00</created>
+			<updated>2024-10-14T16:28:57.327556+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/contribute-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Es wird nicht nur möglich sein, es wird explizit zB über Feedback-Runden Kooperationen gewünscht.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:58:06.578033+02:00</created>
+			<updated>2024-10-14T15:58:06.578035+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/decision-releasing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Die der bestehenden Software</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:46:36.871910+02:00</created>
+			<updated>2024-10-14T15:46:36.871912+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/development-process"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>steht noch offen</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:30:22.642297+02:00</created>
+			<updated>2024-10-14T16:30:22.642299+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/documentation/documentation-stored"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Im repo der Software (Github), auf Englisch</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:27:19.857885+02:00</created>
+			<updated>2024-10-14T15:27:19.857887+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/documentation/who-is-responsible"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja, in Form einer README-Datei im repo</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:27:19.857304+02:00</created>
+			<updated>2024-10-14T15:27:19.857311+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/dual-use"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Nein</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:17:30.011952+02:00</created>
+			<updated>2024-10-14T16:17:30.011959+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/external-components"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Django</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T14:20:27.528963+02:00</created>
+			<updated>2024-10-14T14:20:27.528967+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/external-software-rights"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja, django mit Lizenz</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:13:43.525987+02:00</created>
+			<updated>2024-10-14T16:13:43.525988+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/feedback-process"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Als Angebot eine Dokumentation speziell für Anwender_innen  + Github issues</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:08:01.646741+02:00</created>
+			<updated>2024-10-14T16:08:01.646745+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/governance-model"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Da es sich um eine Erweiterung einer bestehenden Software handelt, gilt ihre gleiche Steuerung und die gleichen Prozesse</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:23:38.402323+02:00</created>
+			<updated>2024-10-14T15:23:38.402327+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/infrastructure-existing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Ja, die Infrastruktur der bestehenden Software kann für die neue Software benutzt werden</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T14:28:24.354419+02:00</created>
+			<updated>2024-10-14T14:28:24.354425+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/infrastructure-required"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Server, Git</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T14:28:24.354964+02:00</created>
+			<updated>2024-10-14T14:28:24.354966+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/institutional-requirements"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja, im Antrag definiert</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:28:57.326970+02:00</created>
+			<updated>2024-10-14T16:28:57.326977+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/language"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Die bestehende Software, die in diesem Projekt erweitert wird, wurde in Django (Python) und react (Javascript) gebaut. Deswegen wird die Sprache dieses Projektes Python sein.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T13:50:31.693894+02:00</created>
+			<updated>2024-10-14T13:50:31.693901+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/peer-review"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:58:06.574423+02:00</created>
+			<updated>2024-10-14T16:20:15.503654+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/preservation"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja, solange sie benutzt wird</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:24:47.809170+02:00</created>
+			<updated>2024-10-14T16:24:47.809177+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/publish-smp"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>repo</text>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/yes_with_text_no/yes"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:08:01.650325+02:00</created>
+			<updated>2024-10-14T16:09:13.286903+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/qualified-references"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:27:50.237525+02:00</created>
+			<updated>2024-10-14T16:27:50.237527+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/re-usable"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>repo</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:24:47.809686+02:00</created>
+			<updated>2024-10-14T16:24:47.809688+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/relation-SMP-DMP"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>RDMO-Management-Plan</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:08:01.650892+02:00</created>
+			<updated>2024-10-14T16:08:01.650894+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/releasing-who"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Die der bestehenden Software</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:46:36.870295+02:00</created>
+			<updated>2024-10-14T15:46:36.870299+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/safety"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>regelmäßige commits</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:24:14.046157+02:00</created>
+			<updated>2024-10-14T16:24:14.046159+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/security"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>regelmäßige commits, Sicherheitschecks bezüglich unerwünschten Datentransfers</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:24:14.045625+02:00</created>
+			<updated>2024-10-14T16:24:14.045632+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-license"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>2</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/software-license/BSD-3-Clause"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:13:48.205696+02:00</created>
+			<updated>2024-10-14T16:13:48.205700+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-metadata"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Mit einer .cff-Datei im repo</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:59:08.692209+02:00</created>
+			<updated>2024-10-14T15:59:08.692213+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-pid"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text>https://link-zum-repo.de</text>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/software_identifier/url"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:59:08.692674+02:00</created>
+			<updated>2024-10-14T16:00:07.141452+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-property-rights"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>MPDL oder RDMO oder DFG</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:13:43.525190+02:00</created>
+			<updated>2024-10-14T16:13:43.525194+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-repository"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Auf Github. Es ist eine Erweiterung der bestehenden Software. Eine Anfrage auf Integration, zB über ein pull request, ist geplant. Ab da, ist sie für eine breitere Gruppe sichtbar und anwendbar.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:58:06.575636+02:00</created>
+			<updated>2024-10-14T15:58:06.575638+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-sharing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>1</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:46:57.520156+02:00</created>
+			<updated>2024-10-14T15:47:15.367133+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/specification-sheet"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>1</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-11T18:27:03.706743+02:00</created>
+			<updated>2024-10-14T14:11:20.714262+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/store-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Auf Github</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:46:36.873884+02:00</created>
+			<updated>2024-10-14T15:46:36.873887+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/support-for-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>1</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:02:18.791495+02:00</created>
+			<updated>2024-10-14T16:02:18.791502+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/technical-support"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>ja, Zeit für traning ist geplant + code reviews</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:26:22.678384+02:00</created>
+			<updated>2024-10-14T16:26:22.678391+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-documentation"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Die Dokumentation der Softwareentwicklungs-Tests erfolgt im repo. Tests der Anwendenden bezüglich Qualität oder Nutzung ??</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:38:55.106091+02:00</created>
+			<updated>2024-10-14T15:38:55.106099+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-strategy"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/testing/unit-testing"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:35:46.368156+02:00</created>
+			<updated>2024-10-14T15:35:46.368164+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-strategy"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/testing/integration-tests"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T15:35:48.640405+02:00</created>
+			<updated>2024-10-14T15:35:48.640412+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/third-party-licenses"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>BSD-3-Clause license</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T14:21:38.965920+02:00</created>
+			<updated>2024-10-14T14:21:38.965927+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-external-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Überprüfung auf Kompatibilität bei Updates, aber dockerization ist geplant</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:27:50.235579+02:00</created>
+			<updated>2024-10-14T16:27:50.235582+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>OKR?</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:30:22.641440+02:00</created>
+			<updated>2024-10-14T16:30:22.641448+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/versioning"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Git</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T13:50:31.694420+02:00</created>
+			<updated>2024-10-14T18:05:52.425048+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/web-services"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>vielleicht</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2024-10-14T16:27:50.235121+02:00</created>
+			<updated>2024-10-14T16:27:50.235127+02:00</updated>
+		</value>
+	</values>
+	<created>2024-10-11T18:03:34.383356+02:00</created>
+	<updated>2024-10-14T18:06:05.365902+02:00</updated>
+</project>
