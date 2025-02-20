@@ -1,0 +1,1081 @@
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-02-20T14:11:09.534431+01:00" version="2.2.2">
+	<title>Weather Analyser</title>
+	<description/>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/clarify_consequences_international_law"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_data_security_officer"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_IT_department"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_IT_or_data_management_expert"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/contact_rights_owner"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/create_data_organisation_policy"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/create_naming_policy"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/determine_versioning_tool"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/finish-first-dmp"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/identify_rights_owner"/>
+		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/inform_data_security_officer"/>
+	</tasks>
+	<views>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/citation.cff"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>10278b6f2f69dbeb4866c4c2475257df6df85eab</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-13T14:42:50.363164+01:00</created>
+			<updated>2025-02-19T17:23:34.085355+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/license-mit"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>fc2cf8e6b667b752cf62d1306521071db34c0a63</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-13T14:42:51.315855+01:00</created>
+			<updated>2025-02-19T17:23:34.977778+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/readme.md"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>c20d47e8658006fd875bcbed1fa11a5ff89dec08</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-13T14:42:49.525106+01:00</created>
+			<updated>2025-02-19T17:23:33.177121+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/affiliation"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>MPI YYY</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.991677+01:00</created>
+			<updated>2025-02-14T08:55:29.078181+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/affiliation"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>MPI YYY</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.846059+01:00</created>
+			<updated>2025-02-14T08:55:29.080636+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/family_names"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Mustermann</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.447013+01:00</created>
+			<updated>2025-02-14T08:55:29.082202+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/family_names"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Feuerstein</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.497661+01:00</created>
+			<updated>2025-02-14T08:55:29.083668+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/given_names"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Tina</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.795362+01:00</created>
+			<updated>2025-02-14T08:55:29.085145+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/given_names"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Fred</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.937196+01:00</created>
+			<updated>2025-02-14T08:55:29.086600+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Tina Mustermann</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:43:09.811229+01:00</created>
+			<updated>2025-02-14T08:55:29.087917+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/id"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Fred Feuerstein</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:44:05.134336+01:00</created>
+			<updated>2025-02-14T08:55:29.089271+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/orcid_id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://orcid.org/XXXX-XXXX-XXXX-X012</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.682180+01:00</created>
+			<updated>2025-02-14T08:55:29.090973+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.int.mpdl.mpg.de/terms/domain/project/structured_partner/orcid_id"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://orcid.org/XXXX-XXXX-XXXX-X345</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-11T16:45:24.894988+01:00</created>
+			<updated>2025-02-14T08:55:29.092644+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/citation.cff"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>3326cdd9dbbf9d0bf83ac1024f3367bd7f1aa91d</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-10T15:42:04.736705+01:00</created>
+			<updated>2025-02-13T11:57:07.009019+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/license-mit"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>fc2cf8e6b667b752cf62d1306521071db34c0a63</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-10T15:42:05.821392+01:00</created>
+			<updated>2025-02-13T11:57:07.974174+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://dev-rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/readme.md"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>c099c9999c59cd5fb4ac5c37871a7c9de7b2fc45</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-10T15:42:03.707110+01:00</created>
+			<updated>2025-02-13T11:57:06.139491+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/funder"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>DFG grant application</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:28:45.925258+01:00</created>
+			<updated>2025-02-14T08:55:29.094028+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/201"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T09:42:45.303145+01:00</created>
+			<updated>2025-02-14T08:55:29.095376+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/205"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T09:44:20.699014+01:00</created>
+			<updated>2025-02-14T08:55:29.096820+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_question/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Intended use:
+1. To bundle all pipeline steps from the raw data from Automatic Weather Stations (AWS) to a final dashboard,
+2. To allow for the download of the data in different formats
+
+Contribution to research: the software simplifies the quality control, and prepares them for publication</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:06:41.674349+01:00</created>
+			<updated>2025-02-14T08:55:29.098155+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/schedule/project_end"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>2027-04-30T00:00:00+02:00</text>
+			<option/>
+			<file/>
+			<value_type>datetime</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:29:38.261720+01:00</created>
+			<updated>2025-02-14T08:55:29.099467+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/schedule/project_start"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>2025-02-11T00:00:00+00:00</text>
+			<option/>
+			<file/>
+			<value_type>datetime</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:29:04.437794+01:00</created>
+			<updated>2025-02-19T12:00:57.180989+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Weather Analyser</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T09:42:45.294676+01:00</created>
+			<updated>2025-02-14T08:55:29.102786+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T09:44:49.177724+01:00</created>
+			<updated>2025-02-19T11:58:56.620813+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/buy-or-make"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>It provides an easy-to-use interface that does not require any software background, and focuses in our specific use case</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:16:14.800891+01:00</created>
+			<updated>2025-02-14T08:55:29.106423+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/coding-standards"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/coding-standards/pep8"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:54:54.458110+01:00</created>
+			<updated>2025-02-14T08:55:29.107937+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/community-requirements"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>No</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:34:49.204837+01:00</created>
+			<updated>2025-02-14T08:55:29.109321+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/contribute-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Yes, for example with pull requests in GitHub</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:10:30.290512+01:00</created>
+			<updated>2025-02-14T08:55:29.110652+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/decision-releasing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Releases will be made if major new features are ready or in case of critical bugs</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:04:27.980023+01:00</created>
+			<updated>2025-02-14T08:55:29.112026+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/development-process"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>We will decide the project management method as a first project step</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:32:30.646911+01:00</created>
+			<updated>2025-02-14T08:55:29.113332+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/documentation/documentation-stored"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Both documentations, for developers and users, will be stored in a common repository in GitHub</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:58:44.046932+01:00</created>
+			<updated>2025-02-14T08:55:29.114709+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/documentation/who-is-responsible"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Developers can access the source code in GitHub
+Users will be provided with a user manual</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:58:44.045822+01:00</created>
+			<updated>2025-02-14T08:55:29.116021+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/dual-use"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>No</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:28:22.513119+01:00</created>
+			<updated>2025-02-14T08:55:29.117461+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/external-components"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>We will use ZZZ, which is a software package for professional weather visualisations</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:40:02.165586+01:00</created>
+			<updated>2025-02-14T08:55:29.119022+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/external-software-rights"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>No</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:27:54.099546+01:00</created>
+			<updated>2025-02-14T08:55:29.120624+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/feedback-process"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>support email address, and feedback also via GitHub</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:24:52.228233+01:00</created>
+			<updated>2025-02-14T08:55:29.121686+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/governance-model"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>The project leader assigns project responsibilities for each member</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:54:54.456852+01:00</created>
+			<updated>2025-02-14T08:55:29.122677+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/infrastructure-existing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Instute insfrastructure: file server, and deployment server. 
+Open source: Git versioning, and GitHub</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:44:52.877362+01:00</created>
+			<updated>2025-02-14T08:55:29.123628+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/infrastructure-required"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>File server, deployment server, Git systems</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:44:52.876598+01:00</created>
+			<updated>2025-02-14T08:55:29.124595+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/institutional-requirements"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>We will follow https://hdl.handle.net/21.11116/0000-000C-80B1-A.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:34:49.206129+01:00</created>
+			<updated>2025-02-14T08:55:29.125532+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/language"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Python</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:35:29.221596+01:00</created>
+			<updated>2025-02-14T08:55:29.126499+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/peer-review"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>After the first final version the software will be published in the Journal of Open Source Software</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:10:30.289580+01:00</created>
+			<updated>2025-02-14T08:55:29.127497+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/preservation"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>At least the software code will be preserved in an archive</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:50:07.714226+01:00</created>
+			<updated>2025-02-14T08:55:29.128549+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/publish-smp"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>GitHub</text>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/yes_with_text_no/yes"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:25:16.665336+01:00</created>
+			<updated>2025-02-14T08:55:29.129501+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/qualified-references"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>No</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:40:02.160548+01:00</created>
+			<updated>2025-02-14T08:55:29.130584+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/relation-SMP-DMP"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Yes, for the data measured with our AWS at the institute XXX a DMP exists: Weather Analyser - DMP, which will be available soon</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:24:52.227435+01:00</created>
+			<updated>2025-02-14T08:55:29.132192+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/releasing-who"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Every update will be tested before release</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:04:27.981344+01:00</created>
+			<updated>2025-02-14T08:55:29.133762+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/re-usable"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>At least for the project's duration will the software remain usable and maintained. However, it is expected that our scientific processing group will further develop and maintain the software also afterwards</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:50:07.715639+01:00</created>
+			<updated>2025-02-14T08:55:29.134948+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/safety"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>The code will be preserved in a GitHub repository, and reviewed by another software developer</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:53:36.312328+01:00</created>
+			<updated>2025-02-14T08:55:29.136491+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/security"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>The IT department of our institute will be in charge of the deployment</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:53:36.313298+01:00</created>
+			<updated>2025-02-14T08:55:29.137706+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-license"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>6</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/software-license/MIT"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:28:06.494486+01:00</created>
+			<updated>2025-02-14T08:55:29.138847+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-metadata"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>We will use a software called RDMO, which automatically generates metadata files like readme, codemeta, citation, and license</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:19:24.560376+01:00</created>
+			<updated>2025-02-14T08:55:29.140006+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-pid"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/software_identifier/doi"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:19:24.561042+01:00</created>
+			<updated>2025-02-14T08:55:29.141518+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-property-rights"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>There is an explicit document describing the owneship of the software</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:27:54.098361+01:00</created>
+			<updated>2025-02-14T08:55:29.143177+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-repository"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>GitHub and zenodo links will be published in the institute's website, and the project will be presented in different scientific conferences</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:10:30.288341+01:00</created>
+			<updated>2025-02-14T08:55:29.144868+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-sharing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>1</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:05:28.637786+01:00</created>
+			<updated>2025-02-14T08:55:29.146497+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/specification-sheet"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>0</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:32:30.650831+01:00</created>
+			<updated>2025-02-14T08:55:29.148357+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/store-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Source code on GitHub, major releases will be also published in zenodo</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:04:27.982484+01:00</created>
+			<updated>2025-02-14T08:55:29.149697+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/support-for-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>1</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T11:20:15.900477+01:00</created>
+			<updated>2025-02-14T08:55:29.151061+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/technical-support"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Python course</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:44:52.875591+01:00</created>
+			<updated>2025-02-14T08:55:29.152392+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-documentation"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>OpenProject</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:59:56.586194+01:00</created>
+			<updated>2025-02-14T08:55:29.153784+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-strategy"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/testing/integration-tests"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:59:08.197010+01:00</created>
+			<updated>2025-02-14T08:55:29.155174+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-strategy"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>4</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/testing/funktionale-Tests"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:58:59.720674+01:00</created>
+			<updated>2025-02-14T08:55:29.156622+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/test-strategy"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>9</collection_index>
+			<text>Tests by end users</text>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/testing/other"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:59:27.202420+01:00</created>
+			<updated>2025-02-14T08:55:29.157897+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/third-party-licenses"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>MIT</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:40:02.159601+01:00</created>
+			<updated>2025-02-14T08:55:29.159195+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-external-software"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>We will dockerized the project, so that we always work with a stable bundle of package versions</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:40:02.161344+01:00</created>
+			<updated>2025-02-14T08:55:29.160877+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>OpenProject</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:32:30.649105+01:00</created>
+			<updated>2025-02-14T08:55:29.162228+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text>GitHub</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:32:30.645116+01:00</created>
+			<updated>2025-02-14T08:55:29.163684+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/versioning"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Githttps://dev-rdmo.int.mpdl.mpg.de/projects/4/questions/</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:35:29.223024+01:00</created>
+			<updated>2025-02-18T13:52:41.023973+01:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/web-services"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>No</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-02-07T10:40:02.162485+01:00</created>
+			<updated>2025-02-14T08:55:29.166499+01:00</updated>
+		</value>
+	</values>
+	<created>2025-02-07T13:57:46.861500+01:00</created>
+	<updated>2025-02-19T11:58:57.064436+01:00</updated>
+</project>
