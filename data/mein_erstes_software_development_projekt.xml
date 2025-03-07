@@ -17,7 +17,6 @@
 		<task dc:uri="https://rdmorganiser.github.io/terms/tasks/inform_data_security_officer"/>
 	</tasks>
 	<views>
-		<view dc:uri="http://local-rdmo-app.com/views/TestView"/>
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
